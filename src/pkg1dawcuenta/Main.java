@@ -4,6 +4,8 @@
  */
 package pkg1dawcuenta;
 
+import java.util.*;
+
 /**
  *
  * @author rodrigod
@@ -13,6 +15,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        List<Object> lista = new ArrayList<>();
         
         
     }
